@@ -1,5 +1,5 @@
 library(stringr)
-ufo<-read.csv('ufo-complete-geocoded-time-standardized.csv',header = FALSE)
+ufo<-read.csv('../csv-data/ufo-complete-geocoded-time-standardized.csv',header = FALSE)
 ufo[1:10]
 colnames(ufo)<-c("datetime","city","state","country","shape","duration_seconds","duration_hours.min","comments","date.posted","latitude","longitude")
 summary(ufo)
