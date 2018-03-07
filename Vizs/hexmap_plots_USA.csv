@@ -1,57 +1,57 @@
 Row,Column,State,Abbreviation
-0,0.50,Alaska,AK
-6,7.50,Alabama,AL
-5,6.00,Arkansas,AR
-5,3.00,Arizona,AZ
-5,2.00,California,CA
-4,3.50,Colorado,CO
-3,11.00,Connecticut,CT
-5,12.00,District of Columbia,DC
-4,9.50,Delaware,DE
-8,8.50,Florida,FL
-7,8.00,Georgia,GA
-8,0.50,Hawaii,HI
-3,5.00,Iowa,IA
-3,2.00,Idaho,ID
-3,6.00,Illinois,IL
-3,7.00,Indiana,IN
-5,5.00,Kansas,KS
-4,6.50,Kentucky,KY
-6,5.50,Louisiana,LA
-2,10.50,Massachusetts,MA
-4,8.50,Maryland,MD
-0,11.50,Maine,ME
-2,7.50,Michigan,MI
-2,4.50,Minnesota,MN
-4,5.50,Missouri,MO
-6,6.50,Mississippi,MS
-2,2.50,Montana,MT
-5,9.00,North Carolina,NC
-2,3.50,North Dakota,ND
-4,4.50,Nebraska,NE
-1,11.00,New Hampshire,NH
-3,10.00,New Jersey,NJ
-6,3.50,New Mexico,NM
-4,2.50,Nevada,NV
-2,9.50,New York,NY
-3,8.00,Ohio,OH
-6,4.50,Oklahoma,OK
-4,1.50,Oregon,OR
-3,9.00,Pennsylvania,PA
-2,11.50,Rhode Island,RI
-6,8.50,South Carolina,SC
-3,4.00,South Dakota,SD
-5,7.00,Tennessee,TN
-7,4.00,Texas,TX
-5,4.00,Utah,UT
-5,8.00,Virginia,VA
-1,10.00,Vermont,VT
-2,1.50,Washington,WA
-2,5.50,Wisconsin,WI
-4,7.50,West Virginia,WV
-3,3.00,Wyoming,WY
-9,2.00,Puerto Rico,PR
-9,3.00,Guam,GA
-9,4.00,American Samoa,AS
-9,5.00,Northern Mariana Islands,MP
-9,6.00,U.S. Virgin Islands,VI
+0,0.5,Alaska,AK
+6,7.5,Alabama,AL
+5,6,Arkansas,AR
+5,3,Arizona,AZ
+5,2,California,CA
+4,3.5,Colorado,CO
+3,11,Connecticut,CT
+5,12,District of Columbia,DC
+4,9.5,Delaware,DE
+8,8.5,Florida,FL
+7,8,Georgia,GA
+8,0.5,Hawaii,HI
+3,5,Iowa,IA
+3,2,Idaho,ID
+3,6,Illinois,IL
+3,7,Indiana,IN
+5,5,Kansas,KS
+4,6.5,Kentucky,KY
+6,5.5,Louisiana,LA
+2,10.5,Massachusetts,MA
+4,8.5,Maryland,MD
+0,11.5,Maine,ME
+2,7.5,Michigan,MI
+2,4.5,Minnesota,MN
+4,5.5,Missouri,MO
+6,6.5,Mississippi,MS
+2,2.5,Montana,MT
+5,9,North Carolina,NC
+2,3.5,North Dakota,ND
+4,4.5,Nebraska,NE
+1,11,New Hampshire,NH
+3,10,New Jersey,NJ
+6,3.5,New Mexico,NM
+4,2.5,Nevada,NV
+2,9.5,New York,NY
+3,8,Ohio,OH
+6,4.5,Oklahoma,OK
+4,1.5,Oregon,OR
+3,9,Pennsylvania,PA
+2,11.5,Rhode Island,RI
+6,8.5,South Carolina,SC
+3,4,South Dakota,SD
+5,7,Tennessee,TN
+7,4,Texas,TX
+5,4,Utah,UT
+5,8,Virginia,VA
+1,10,Vermont,VT
+2,1.5,Washington,WA
+2,5.5,Wisconsin,WI
+4,7.5,West Virginia,WV
+3,3,Wyoming,WY
+9,2,Puerto Rico,PR
+9,3,Guam,GU
+9,4,American Samoa,AS
+9,5,Northern Mariana Islands,MP
+9,6,U.S. Virgin Islands,VI
